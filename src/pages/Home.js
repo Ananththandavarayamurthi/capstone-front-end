@@ -17,9 +17,19 @@ const Home = () => {
               <p>
                 <b>Credentials</b>
               </p>
+              <p>
+                <b>For admin</b>
+              </p>
               <b>UserName:</b>ananth@gmail.com
               <br />
               <b>password:</b>Ananththeri007@ <br />
+              <b>AdminKey:</b>123
+              <p>
+                <b>For employee</b>
+              </p>
+              <b>UserName:</b>mani@gmail.com
+              <br />
+              <b>password:</b>manikandan@123<br />
               <b>AdminKey:</b>123
             </p>
             <div className="cta">
