@@ -28,9 +28,9 @@ const Home = () => {
     <br />
                 <b>For employee</b>
               </p>
-              <b>UserName:</b>mani@gmail.com
+              <b>UserName:</b>sakthi@gmail.com
               <br />
-              <b>password:</b>manikandan@123
+              <b>password:</b>sakthi@123
               
             </p>
             <div className="cta">
