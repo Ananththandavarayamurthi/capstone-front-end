@@ -20,9 +20,9 @@ const Home = () => {
               <p>
                 <b>For admin</b>
               </p>
-              <b>UserName:</b>ananth@gmail.com
+              <b>UserName:</b>admin@gmail.com
               <br />
-              <b>password:</b>Ananththeri007@ <br />
+              <b>password:</b>admin@123 <br />
               <b>AdminKey:</b>123
               <p>
     <br />
