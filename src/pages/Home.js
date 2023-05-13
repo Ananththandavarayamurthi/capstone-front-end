@@ -29,8 +29,8 @@ const Home = () => {
               </p>
               <b>UserName:</b>mani@gmail.com
               <br />
-              <b>password:</b>manikandan@123<br />
-              <b>AdminKey:</b>123
+              <b>password:</b>manikandan@123
+              
             </p>
             <div className="cta">
               <Link to="login" className="btn btn-primary">
